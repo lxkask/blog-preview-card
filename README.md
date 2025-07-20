@@ -21,7 +21,7 @@ A small project focused on building a responsive blog card layout and practicing
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/lxkask/blog-preview-card)
-- Live Site URL: [Live Demo on GitHub Pages](https://lxkask.github.io/blog-preview-card-main/)
+- Live Site URL: [Live Demo on GitHub Pages](https://lxkask.github.io/blog-preview-card/)
 
 ## My process
 
